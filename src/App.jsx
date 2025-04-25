@@ -2,7 +2,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom"
 import HomePage from "./pages/HomePage"
 import ChiSiamo from "./pages/ChiSiamo"
-import PostList from "./pages/PostsList"
+import PostList from "./pages/PostsPage"
 import DefaultLayout from "./layouts/DefaultLayout"
 import DetailsPost from "./pages/DetailsPost"
 import axios from "axios"
